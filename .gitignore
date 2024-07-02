@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OSX trash
+.DS_Store
+
+# C extensions
+*.so
+
+#Pycharm/vscode
+.idea/
+.vscode/
+*.code-workspace
+
+# visual studio
+.vs/
+
+# cmake
+out/
